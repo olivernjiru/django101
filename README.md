@@ -1,6 +1,7 @@
 # Django Setup
 
-Install Python
+Install Python.
+
 Check the version by typign this in the command prompt
 ```
 py --version
