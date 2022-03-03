@@ -11,7 +11,8 @@ py --version
 PIP
 Check if pip is installed:
 ```
-pip help```
+pip help
+```
 If it runs, pip is installed, else, it will bring up an error.
 
 To install pip:
