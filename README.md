@@ -10,6 +10,7 @@ py --version
 
 PIP
 Check if pip is installed:
+
 ```
 pip help
 ```
