@@ -89,5 +89,10 @@ To run the development server:
 python manage.py runserver
 ```
 
+Creating superuser:
+```
+
+```
+
 
 
