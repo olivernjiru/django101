@@ -79,6 +79,11 @@ To create a new django project:
 django-admin startproject name
 ```
 
+Run:
+```
+python manage.py migrate
+```
+
 To create a superuser:
 ```
 python manage.py createsuperuser
@@ -89,10 +94,12 @@ To run the development server:
 python manage.py runserver
 ```
 
-Creating superuser:
+To Quit the server:
+```
+press CTRL-Break
 ```
 
-```
+
 
 
 
